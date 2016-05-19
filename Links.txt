@@ -1,0 +1,2 @@
+Invalid Signature file digest - Maven solution :
+http://rohitvvv.info/blog/2015/Invalid-Singature.html
